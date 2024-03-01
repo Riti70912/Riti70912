@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Riti70912
+- 👋 Hi, I’m Ritikesh
 - 👀 I’m interested in machine learning model development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on
